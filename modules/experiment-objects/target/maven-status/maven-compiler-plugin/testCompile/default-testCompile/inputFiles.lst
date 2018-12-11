@@ -1,0 +1,16 @@
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/BucketTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/PageExperimentTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/ExperimentPageTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/ExperimentValidatorTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/ExperimentIDListTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/PrioritizedExperimentListTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/BucketListTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/ExperimentListTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/NewExperimentTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/PrioritizedExperimentTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/ExperimentBatchTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/ExperimentStateTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/ContextTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/exceptions/InvalidExperimentStateTransitionExceptionTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/exceptions/InvalidIdentifierExceptionTest.java
+/Users/rsingh26apple.com/opensource/wasabi/modules/experiment-objects/src/test/java/com/intuit/wasabi/experimentobjects/PageTest.java
